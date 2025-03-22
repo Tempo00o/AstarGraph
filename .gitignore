@@ -1,0 +1,27 @@
+# Visual Studio build files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+*.exe
+*.log
+
+# VS Code workspace (if used)
+.vscode/
+
+# CMake / cache files (if used)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Other temp / system files
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+Thumbs.db
