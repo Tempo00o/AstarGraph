@@ -11,6 +11,3 @@ I’m just a lazy, clumsy man who feels like he has already lost his youth，but
 I hope this pathfinding code not only helps me find paths in code,  
 but also becomes a small part of my own life’s path  
 **toward the dream I’ve always wanted to reach: to make a game with my own hands.**
-
-Thank you for visiting this project. 🌱  
-Feel free to explore, use, and improve it.
